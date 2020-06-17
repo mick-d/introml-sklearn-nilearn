@@ -1,0 +1,6 @@
+nilearn_cache/
+datasets/face_objects/
+datasets/age_netmats/
+.ipynb_checkpoints/
+__pycache__/
+.vscode/
